@@ -8,7 +8,7 @@ Universidad Internacional de Valencia*
 
 Prof: Dr. Horacio Kuna
 Dictado: OCT23-24
-
+Inicio de la Actividad Práctica I : 9/4/24
 Alumno: Michael Andres Cristancho Torres
 
 ## Descripción del contenido
